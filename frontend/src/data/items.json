@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Band-Aid",
+    "price": 100,
+    "imgUrl": "/imgs/Band-Aid.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Lozenge",
+    "price": 200,
+    "imgUrl": "/imgs/Lozenge.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Battery",
+    "price": 300,
+    "imgUrl": "/imgs/Battery.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Toothpaste",
+    "price": 400,
+    "imgUrl": "/imgs/Toothpaste.jpg"
+  }
+]
